@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VermillionIts15
-- 👀 I’m interested in learning more programming languages.
+- 👀 I love to help people, also love watching videos and shorts.
 - 🌱 I’m currently learning Lua (I'm studying roblox api)
-- 💞️ I’m looking to collaborate on a Roblox Exploit (Not to use just to learn how they work)
 - 📫 About me: I'm 19 years old and my name is Vermillion15
