@@ -1,10 +1,14 @@
-# 1551 ***1551*** 1551 ***1551*** 1551 ***1551*** 1551 ***1551*** 1551 ***1551***
+# Contact
 
-## About Me
+If you want to contact me, here's all my socials.
+- **``Twitter/X``**: @Vermillion151
+- **``Discord``**: @macacofeio
+- **``Email``**: nickolaukopernico@gmail.com
+- **``Roblox``**: VermillionIts15
 
-- Hi there, I'm Michael K. Vermillion, but you can call me V15 (Vermillion15).
-- I use mostly Python and Lua (for Roblox Development)
+## About me
 
-Feel free to explore my repositories and projects, send feedback too!
-
-📫 You can reach out to me at [nickolaukopernico@gmail.com] (I don't look at it very often so warn me if you hmu) or connect with me on discord: [@macacofeio] (without the brackets!).
+- When I code for myself I do a terrible mess, When I code for other people, similar results.
+- Not affiliated with any criminal organization... I think.
+- I'm a cool person.
+- Some people misgender me, It's she not him.
