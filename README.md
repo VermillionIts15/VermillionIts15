@@ -12,3 +12,5 @@ If you want to contact me, here's all my socials.
 - Not affiliated with any criminal organization... I think.
 - I'm a cool person.
 - Some people misgender me, It's she not him.
+- Not crazy.
+- I cancel cancel culture.
